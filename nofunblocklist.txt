@@ -31,3 +31,10 @@ sitecheck2.opera.com
 exchange.opera.com
 features.opera-api.com
 opera-mini.net
+
+cloudflare-dns.com
+dns.google
+mozilla.cloudflare-dns.com
+doh.opendns.com
+dns.quad9.net
+dns.adguard-dns.com
