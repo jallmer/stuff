@@ -1,0 +1,23 @@
+# Roblox
+roblox.com
+rbxcdn.com
+rbxi18n.com
+
+# TikTok
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+bytecdn.com
+
+# YouTube
+youtube.com
+googlevideo.com
+ytimg.com
+youtu.be   # short-link host
+
+# Minecraft
+minecraft.net
+mojang.com
+mcsvc.cx
+minecraft-services.com
+xboxlive.com  # Bedrock auth / Realms
