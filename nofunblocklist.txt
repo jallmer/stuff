@@ -21,3 +21,13 @@ mojang.com
 mcsvc.cx
 minecraft-services.com
 xboxlive.com  # Bedrock auth / Realms
+
+# Opera / SurfEasy VPN control
+api.surfeasy.com
+api.sec-tunnel.com
+api2.sec-tunnel.com
+*.opera-proxy.net       # use the root “opera-proxy.net”
+sitecheck2.opera.com
+exchange.opera.com
+features.opera-api.com
+opera-mini.net
