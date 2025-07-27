@@ -3,6 +3,20 @@ roblox.com
 rbxcdn.com
 rbxi18n.com
 
+#Discord
+discord.com
+discord.gg
+discordapp.com
+cdn.discordapp.com
+status.discord.com
+gateway.discord.gg
+media.discordapp.net
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+discord.media
+discordapp.net
+
+
 # TikTok
 tiktok.com
 tiktokcdn.com
